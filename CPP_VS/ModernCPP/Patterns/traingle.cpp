@@ -19,9 +19,6 @@ int main(){
         for( m=0;m<i;m++){
             cout << inputString[k - m - 2] << " ";
         }
-        cout << endl;
-
-        
+        cout << endl;        
     }
-
 }
